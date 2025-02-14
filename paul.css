@@ -1,0 +1,8 @@
+.circle{
+    border-radius:  50%;
+    height: 120px;
+    width: 120px;
+}
+body{
+    background-color: rgb(226, 239, 250);
+}
